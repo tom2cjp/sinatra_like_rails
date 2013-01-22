@@ -1,0 +1,18 @@
+development:
+  adapter : "mysql2"
+  host    : "localhost"
+  username: "root"
+  password: "db_pwd"
+  database: "ghost_dev"  
+production:
+  adapter : "mysql2"
+  host    : "localhost"
+  username: "root"
+  password: "db_pwd"
+  database: "ghost_prd"  
+test:
+  adapter : "mysql2"
+  host    : "localhost"
+  username: "root"
+  password: "db_pwd"
+  database: "ghost_test"  
