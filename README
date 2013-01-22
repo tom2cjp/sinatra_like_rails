@@ -1,2 +1,8 @@
-use ruby app.rb to start sinatra
-use ruby c.rb as irb
+===============INSTALL===============
+git clone ***
+
+===============COMMAND===============
+thin start -> start sinatra
+ruby app.rb -> start sinatra
+
+ruby c.rb -> irb

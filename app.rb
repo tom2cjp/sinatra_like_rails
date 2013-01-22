@@ -1,5 +1,6 @@
 # -*- encoding : utf-8 -*-
 require_relative 'config/environment.rb'
+require 'thin'
 require 'sinatra'
 
 set :root, File.dirname(__FILE__)
