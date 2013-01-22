@@ -1,0 +1,2 @@
+use ruby app.rb to start sinatra
+use ruby c.rb as irb
